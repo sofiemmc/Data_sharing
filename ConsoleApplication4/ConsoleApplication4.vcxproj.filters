@@ -29,7 +29,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ConsoleApplication4.cpp">
+    <ClCompile Include="Practica_openmp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
